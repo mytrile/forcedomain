@@ -1,4 +1,4 @@
-# forcedomain
+# forcedomain [![wercker status](https://app.wercker.com/status/a743fbd654d9c773f14695801d9603a1/s "wercker status")](https://app.wercker.com/project/bykey/a743fbd654d9c773f14695801d9603a1)
 
 Martini middleware/handler for redirect based on environment variable.
 
